@@ -1,16 +1,6 @@
-# Robotics Summer Project 2025-26
+# Robotics 
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Development-yellow" alt="Status: In Development">
-  <img src="https://img.shields.io/badge/Team-Robotics%20Club-blue" alt="Team: Robotics Club">
-  <img src="https://img.shields.io/badge/Platform-Arduino-orange" alt="Platform: Arduino">
-  <div align="center">
-    <img src="./photos/foto_1.png" width="600" alt="Project Image">
-    <br>
-    </h1>Add project specific image on ./photos/foto_1.png</h1> 
-  </div>
-</div>
-
+###Add images
 ## 🤖 Project Overview
 
 This repository houses the codebase for the **!TODO(project name)**. It serves as a comprehensive collection of resources including code, CAD models, calculations, and component datasheets. Our aim is to create a well-documented reference that will enable future teams to build upon our work.
