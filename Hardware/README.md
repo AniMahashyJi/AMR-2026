@@ -11,7 +11,8 @@
 - **Dimensions**: !TODO()
 - **Drive System**: Differential drive 
 - **Sensors**:
-  - !TODO()
+  - RP-LiDAR A1 Sensor
+  - BNO055 Orientation Sensor
 - **Power**: 3.7V LiPo battery
 
 ### Adding New CAD Files
@@ -26,8 +27,8 @@ When adding new design files, please follow these guidelines:
 !TODO()
 
 ### Base Configuration
-- **Microcontroller**: !TODO()
-- **Motor Driver**: !TODO()
+- **Microcontroller**: Arduino Mega
+- **Motor Driver**: JYQD-V7.3E2 brushless DC motor driver board
 - **Sensor Interface**: !TODO()
 
 
